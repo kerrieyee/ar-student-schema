@@ -11,3 +11,4 @@ class AddColumns < ActiveRecord::Migration
   	drop_table :students
   end
 end
+
